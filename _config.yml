@@ -31,6 +31,7 @@ url: "https://hopeful-murdock-abfc1e.netlify.com/" # the base hostname & protoco
 twitter_username: 
 github_username: red-dylan
 instagram_username: red_dylan
+instagram_700x35mm: 700x35mm
 
 # Build settings
 plugins:
