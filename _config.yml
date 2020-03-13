@@ -27,7 +27,7 @@ author:
 description: >- # this means to ignore newlines until "baseurl:"
   Dylan Sherwood film photography
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hopeful-murdock-abfc1e.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://photos.dylansherwood.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: red-dylan
 instagram_username: red_dylan
